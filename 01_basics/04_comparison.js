@@ -11,5 +11,4 @@ console.log(undefined == 0);
 console.log(undefined > 0);
 console.log(undefined < 0);
 
-// strict check
-
+// strict check === is used
