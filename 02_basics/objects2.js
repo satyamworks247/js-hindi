@@ -71,11 +71,13 @@ console.log(instructor);
 // {
 //     "name": "hitesh",
 //     "coursename": "js in hindi",
-//     "price": "free"
+//     "price": "free"                             this is json 
 // }
 
 [
     {},
-    {},
+    {},              // API in arrays 
     {}
 ]
+
+// json formator tool is used to ease data 
